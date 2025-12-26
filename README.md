@@ -2,7 +2,7 @@
 Manage your live sports broadcast effortlessly! Select Football, Basketball, Volleyball, or Baseball and control on-air graphics like scorebug, left slab, tombstone, and locator, with a dedicated graphics output window ready for OBS or any window capture setup.
 
 
-# ** READ ME **
+# LICENSE
 Permission is hereby granted, free of charge, to anyone obtaining a copy of this software and associated files ("the Software"), to use, modify, and distribute the Software for personal, educational, or non-commercial purposes, subject to the following conditions:
 
 1. The Software may NOT be sold, sublicensed, or used for any commercial purpose without explicit written permission from the author (Central Sports Network, LLC.
